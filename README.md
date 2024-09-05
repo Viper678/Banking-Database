@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a banking system database as part of the CS3120 Database Management Systems Laboratory. It includes an ER diagram, relational model, procedures, functions, triggers, roles, indices, and views.
+This project implements a banking system database as part of the CS3120 Database Management Systems. It includes an ER diagram, relational model, procedures, functions, triggers, roles, indices, and views.
 
 ## Group Information
 
